@@ -693,7 +693,6 @@ $Bloatware = @(
         "*Royal Revolt*"
         "*Sway*"
         "*Speed Test*"
-        "*Dolby*"
         "*Viber*"
         "*ACGMediaPlayer*"
         "*Netflix*"
